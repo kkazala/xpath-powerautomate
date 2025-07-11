@@ -1,0 +1,1 @@
+The repository initialized with SvgPublish Visio extension https://unmanagedvisio.com/products/svg-publish/
